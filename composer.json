@@ -1,0 +1,17 @@
+{
+    "name": "fesor/bugs-bunny",
+    "description": "Simple facade around Bunny library for reliable messaging via rabbitmq",
+    "type": "library",
+    "require": {
+        "bunny/bunny": "^0.4.4",
+        "psr/log": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Protko",
+            "email": "fesors@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
